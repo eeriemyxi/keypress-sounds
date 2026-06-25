@@ -1,5 +1,10 @@
 # Keypress Sounds
 
+https://github.com/user-attachments/assets/fa05ad07-f003-40e5-8907-f14a1e1844e6
+
+> [!WARNING]
+> You browser might be muting the embedded video's audio by default.
+
 A project that lets you use play custom sounds when you press keys on any
 website you let it to.
 
